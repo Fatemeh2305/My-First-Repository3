@@ -63,7 +63,7 @@ my_flask_app/
         def admin():
             db = get_db()
             cursor = db.cursor()
-            cursor.execute("SELECT * FROM messages ORDER BY id DESC")
+            cursor.execute("SELECT * FROM message ORDER BY id DESC")
             messages = cursor.fetchall()
             return render_template("admin.html", title="Admin Dashboard", messages=messages)
 
