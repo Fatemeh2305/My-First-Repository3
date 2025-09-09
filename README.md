@@ -3,7 +3,7 @@ my_flask_app/
 ├── app.FOR
 │   └──
         import sqlit
-        from flask import Flask, render_template, request, g, redirect, url_fo
+        from flask import Flask, render_template, request, g, redirect, url_f
 
         app = Flask(__name__)
         DATABASE = "messages.db"
