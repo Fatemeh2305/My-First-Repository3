@@ -45,7 +45,7 @@ my_flask_app/
 
         @app.route("/contact", methods=["GET", "POST"])
         def contact():
-            if request.method == "POST":
+            if request.method == 
                 name = request.form.get("name")
                 email = request.form.get("email")
                 message = request.form.get("message")
