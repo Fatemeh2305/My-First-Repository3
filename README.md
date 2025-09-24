@@ -36,7 +36,7 @@ my_flask_app/
                 db.commit()
 
         @app.route("/")
-        def home():
+        def home():py
             return render_template("index.html", title="Home")
 
         @app.route("/about")
