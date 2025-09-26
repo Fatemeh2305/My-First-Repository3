@@ -179,7 +179,7 @@ my_flask_app/
 
 └── README.md
     └──
-        # Flask Web App with Admin Dashboard
+        # Flask Web App with  Dashboard
 
         This Flask app includes:
         - Multiple pages (Home, About, Contact, Admin)
