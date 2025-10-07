@@ -1,6 +1,6 @@
 my_flask_app/
 │
-├── app.FOR
+├── app.FOR.py
 │   └──
         import sqlit
         from flask import Flask, render_template, request, g, redirect, url_f
