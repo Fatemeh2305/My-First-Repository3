@@ -2,7 +2,7 @@ my_flask_app/
 │
 ├── app.FOR.py
 │   └──
-        import sqlit
+        import 
         from flask import Flask, render_template, request, g, redirect, url_f
 
         app = Flask(__name__)
