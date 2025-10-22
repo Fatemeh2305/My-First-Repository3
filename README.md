@@ -30,7 +30,7 @@ my_flask_app/
                         id INTEGER PRIMARY KEY AUTOINCREMENT,
                         name TEXT NOT NULL,
                         email TEXT NOT NULL,
-                        message TEXT NOT NULL
+                        message TEXT NOT NULLS
                     )
                 """)
                 db.commit()
