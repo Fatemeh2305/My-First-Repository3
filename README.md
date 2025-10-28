@@ -14,7 +14,7 @@ my_flask_app/
             if db is None:
                 db = g._database = sqlite3.connect(DATABASE)
                 db.row_factory = sqlite3.Rows
-            return 
+           
          import sqlite3
         @app.teardown_appcontext
         def close_connection(exception):
