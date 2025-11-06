@@ -74,7 +74,7 @@ my_flask_app/
 
 ├── requirements.txt
 │   └──
-        Flask
+        
 
 ├── templates/
 │   ├── base.html
