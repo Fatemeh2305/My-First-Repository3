@@ -73,7 +73,7 @@ my_flask_app/
             app.run(debug=True)
 
 ├── requirements.txt
-│   └──
+│   └──db
         
 
 ├── templates/
