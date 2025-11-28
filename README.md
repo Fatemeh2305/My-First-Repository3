@@ -80,7 +80,7 @@ my_flask_app/
 ├── templates/
 │   ├── base.html
 │   │   └──
-                <!DOCTYPE html>
+                
                 <html lang="en">
                 <head>
                     <meta charset="UTF-8">
