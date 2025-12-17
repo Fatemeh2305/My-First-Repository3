@@ -15,7 +15,7 @@ my_flask_app/
                 db = g._database = sqlite3.connect(DATABASE)
                 db.row_factory = sqlite3.Rows
                 app/db.py
-                 <head>
+                 
                  [yield db
                  
            
