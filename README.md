@@ -81,7 +81,7 @@ my_flask_app/
         
 
 ├── templates/
-│   ├── base.html
+│   ├── base.
 │   │   └──
                 
                 <html lang="en">
