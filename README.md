@@ -16,7 +16,7 @@ my_flask_app/
                 db.row_factory = sqlite3.Rows
                 app/db.py
                  
-                 [yield db
+                 [yield 
                  
            
          import sqlite3
